@@ -4,6 +4,8 @@
 
 Repositório da aplicação front-end que foi desenvolvida durante o NLW Experts 2024 da Rocketseat utilizando ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS e uso de APIs da Web como Web Storage e Web Speech.
 
+Diferente de outros aplicativos de notas, nesse você pode gravar uma nota usando áudio que será convertido em texto automaticamente. Isso é feito usando a interface da própria web, sem necessidade de contas externas, utilizando a Speech Recognition API, disponível nos navegadores modernos.
+
 ## Executando o projeto
 
 Clone este repositório:
